@@ -1,0 +1,11 @@
+---
+application:
+  name: "p0sseid0n"
+  project: "P0sseid0n"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-p0sseid0n"
+  routes:
+  - application_name: "p0sseid0n"
+    paths:
+    - "/*"
